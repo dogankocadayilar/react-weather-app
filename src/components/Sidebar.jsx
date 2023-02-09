@@ -99,7 +99,7 @@ function Sidebar({ selected, setSelected, data }) {
                   <span>{DAY_FORMATTER.format(weather.timestamp)}</span>
                   <span>
                     <img
-                      src={`src/assets/weather-icons/${ICON_MAP.get(
+                      src={`https://raw.githubusercontent.com/dogankocadayilar/react-weather-app/main/src/assets/weather-icons/${ICON_MAP.get(
                         weather.iconCode
                       )}.svg`}
                       alt="Weather Icon"
