@@ -12,11 +12,15 @@ Users should be able to:
 
 ### Screenshots
 
+![Screenshot 2023-02-09 at 10-50-09 Weathy](https://user-images.githubusercontent.com/75983262/217755468-5c3ccc3d-be7e-482c-b167-92a1eb47407b.png)
+![Screenshot 2023-02-09 at 10-49-41 Weathy](https://user-images.githubusercontent.com/75983262/217755478-83ddce98-17bc-4756-993e-4a7be54b3e1b.png)
+![Screenshot 2023-02-09 at 10-49-23 Weathy](https://user-images.githubusercontent.com/75983262/217755486-f432b4c1-e93f-4669-a244-2754253fda9d.png)
+
 ### Links
 
-[Solution](https://your-solution-url.com)
+[Solution](https://github.com/dogankocadayilar/react-weather-app)
 
-[Live](https://your-live-site-url.com)
+[Live](https://dogankocadayilar.github.io/react-weather-app/)
 
 ### Built with
 
