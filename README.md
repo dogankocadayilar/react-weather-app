@@ -1,4 +1,4 @@
-# Frontend Mentor - Shortly URL shortening API Challenge solution
+# React Weather Forecast App
 
 This is a personel project that uses [Weather Forecast API](https://open-meteo.com/en/docs) for weather information from given coordinates and [Geocoding API](https://open-meteo.com/en/docs/geocoding-api) for receiving coordinates from given location. I used localstorage to save locations you can add or delete locations as you want. First add a location or more, last added location selected by default. Its displays selected location weather information like temparature, precipitation, wind speed and next 7 day weather forecast.
 
